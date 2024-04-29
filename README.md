@@ -1,4 +1,4 @@
-# MagicPitch-LLC-Assignment
+# Web Scrapping
 
 This Python script allows you to scrape data from all businesses listed on https://www.yellowpages-uae.com/uae/restaurant from Yellow Pages and store it in a Google Sheet.
 
